@@ -13,4 +13,6 @@ Formulário de aula - [Responda AQUI](https://forms.office.com/r/vdipbGS8ns)
 
 Material de aula - [AQUI](https://github.com/costasilvati/POO/blob/gh-pages/AnOrientaObjetos_2022_aula2%20(2).pdf)
 
-Atividades de aula no fim do material.
+Atividades de aula no fim do material e no formulário - 
+
+[Responda as atividades AQUI](https://forms.office.com/r/M7Km9ZXMkj) - Disponível até as 19:00 de 23/03/2022

@@ -21,6 +21,7 @@ Atividades de aula no fim do material e no formulário -
 ## Aula 3 - 23/03/2022
 
 - [Material de aula 3](https://github.com/costasilvati/POO/blob/gh-pages/AnOrientaObjetos_2022_aula3.pdf)
-- [Código de aula - ExemploString.java 2 e 3](https://github.com/costasilvati/POO/blob/gh-pages/)
+- [Código de aula - ExemploString.java 3](https://github.com/costasilvati/POO/blob/gh-pages/ExemploString2.java)
+- [Código de aula - ExemploString.java 2](https://github.com/costasilvati/POO/blob/gh-pages/ExemploString3.java)
 - [Responda as atividades AQUI](https://forms.office.com/r/f4SfPGDevd) - Disponível até as 19:00 de 30/03/2022
 

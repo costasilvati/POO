@@ -38,3 +38,9 @@ Atividades de aula no fim do material e no formulário -
 - [Material de aula 5](https://github.com/costasilvati/POO/tree/main/antocoesDeAula);
 - [Código de aula](https://github.com/costasilvati/POO/tree/main/codigo) - Disponível após as 22:00h
 - [Atividade de aula (No material de aula)](https://github.com/costasilvati/POO/tree/main/antocoesDeAula)
+
+### Materiais extras para estudo:
+
+1 - [Apostila online Caelum](https://www.caelum.com.br/apostila-java-orientacao-objetos)
+
+# Avlaição OFICIAL 1 - 13/04/2022 presencial.

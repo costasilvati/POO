@@ -36,7 +36,8 @@ Atividades de aula no fim do material e no formulário -
 ## Aula 5 - 06/04/2022 - Atividades de Revisão
 
 - [Material de aula 5](https://github.com/costasilvati/POO/tree/main/antocoesDeAula);
-- [Código de aula](https://github.com/costasilvati/POO/tree/main/codigo) - Disponível após as 22:00h
+- [Código de aula](https://github.com/costasilvati/POO/tree/main/codigo) - Disponível após as 22:00h);
+- [Lista de Exercício](https://github.com/costasilvati/POO/blob/main/antocoesDeAula/revisao_1.pdf);
 - [Atividade de aula (No material de aula)](https://github.com/costasilvati/POO/tree/main/antocoesDeAula)
 
 ### Materiais extras para estudo:

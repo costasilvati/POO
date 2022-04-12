@@ -30,6 +30,7 @@ Atividades de aula no fim do material e no formulário -
 
 - [Material de aula 4](https://github.com/costasilvati/POO/blob/gh-pages/AnOrientaObjetos_2022_aula4.pdf);
 - [Código de aula](#) - Disponível após as 22:00h
+- [Lita de exercício](https://github.com/costasilvati/POO/blob/main/antocoesDeAula/revisao_1.pdf)
 - [Atividade de aula (Vale nota PARCIAL)](https://forms.office.com/r/2k5zsQaAeG) - Disponível até as 12:00 de 31/03/2022
 
 ## Aula 5 - 06/04/2022 - Atividades de Revisão

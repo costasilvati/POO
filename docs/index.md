@@ -44,3 +44,4 @@ Atividades de aula no fim do material e no formulário -
 1 - [Apostila online Caelum](https://www.caelum.com.br/apostila-java-orientacao-objetos)
 
 # Avlaição OFICIAL 1 - 13/04/2022 presencial.
+- Será permitida a consulta durante a avaliação, apenas na folha A4, escrita a mão (manuscrito) frente e verso, como combinado na aula anterior.

@@ -48,3 +48,9 @@ Atividades de aula no fim do material e no formulário -
 - Enviar o código via e-mail para: jc.silva@kroton.com.br - até as 22:00h do dia 13/04/2022
 - [Fromulário opçional para de entrega](https://forms.office.com/r/faPiYg6M43)
 - [CÓDIGO CORREÇÃO DA PROVA 1](https://github.com/costasilvati/POO/tree/main/codigo/prova1PraticaPOO)
+
+## Aula 7 - 27/04/2022
+
+- [Anotações de aula 7](https://github.com/costasilvati/POO/blob/main/antocoesDeAula/AnOrientaObjetos_2022_aula7.pdf)
+- [Código de aula](#)
+- Atividade disponível no AVA até as 19:15h do dia 04/05/2022;

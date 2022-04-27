@@ -10,7 +10,6 @@ Envie como resposta o código Java Desenvolvido
 
 (600 pontos = 150 por item implementado)
  */
-package admpaicentes;
 
 import javax.swing.JOptionPane;
 

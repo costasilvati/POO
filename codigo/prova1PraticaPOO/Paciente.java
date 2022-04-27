@@ -1,5 +1,3 @@
-package admpaicentes;
-
 /**
  *
  * @author costasilvati

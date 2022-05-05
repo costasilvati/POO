@@ -53,4 +53,4 @@ Atividades de aula no fim do material e no formulário -
 
 - [Anotações de aula 7](https://github.com/costasilvati/POO/blob/main/antocoesDeAula/AnOrientaObjetos_2022_aula7.pdf)
 - [Código de aula](#)
-- Atividade disponível no AVA até as 19:15h do dia 04/05/2022;
+- Atividade disponível no AVA (*Encontro 7*) até as 19:15h do dia 11/05/2022;

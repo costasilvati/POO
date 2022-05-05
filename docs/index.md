@@ -52,5 +52,12 @@ Atividades de aula no fim do material e no formulário -
 ## Aula 7 - 27/04/2022
 
 - [Anotações de aula 7](https://github.com/costasilvati/POO/blob/main/antocoesDeAula/AnOrientaObjetos_2022_aula7.pdf)
+- [Corração da questão prática AVALIAÇÃO 1](https://github.com/costasilvati/POO/tree/main/codigo/prova1PraticaPOO)
 - [Código de aula](#)
+- Atividade disponível no AVA (*Encontro 7*) até as 19:15h do dia 11/05/2022;
+
+## Aula 8 - 04/05/2022
+
+- [Anotações de aula 7 (finalizando conteúdo)](https://github.com/costasilvati/POO/blob/main/antocoesDeAula/AnOrientaObjetos_2022_aula7.pdf)
+- [Código de aula](https://github.com/costasilvati/POO/tree/main/codigo)
 - Atividade disponível no AVA (*Encontro 7*) até as 19:15h do dia 11/05/2022;

@@ -66,3 +66,8 @@ Atividades de aula no fim do material e no formulário -
 - [Anotações de aula 9](https://github.com/costasilvati/POO/blob/main/antocoesDeAula/AnOrientaObjetos_2022_aula9.pdf)
 - [Código de Aula 9 - na pasta Aula 9](https://github.com/costasilvati/POO/tree/main/codigo)
 - [Atividade PARCIAL disponível até as 23:59h do dia 22/05/2022](https://forms.gle/SxLYCxmud7FVNcYZ7);
+
+## Aula 10 - 18/05/2022
+- [Anotações de aula 10](https://github.com/costasilvati/POO/blob/main/antocoesDeAula/AnOrientaObjetos_2022_aula10.pdf)
+- [Código SQL Banco de dados](https://github.com/costasilvati/POO/blob/main/codigo/aula10/JavaJDBC/banco.sql)
+- [Atividade PARCIAL disponível até as 19:00h do dia 25/05/2022](#);

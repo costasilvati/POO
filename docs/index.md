@@ -71,3 +71,10 @@ Atividades de aula no fim do material e no formulário -
 - [Anotações de aula 10](https://github.com/costasilvati/POO/blob/main/antocoesDeAula/AnOrientaObjetos_2022_aula10.pdf)
 - [Código SQL Banco de dados](https://github.com/costasilvati/POO/blob/main/codigo/aula10/JavaJDBC/banco.sql)
 - [Código de aula](https://github.com/costasilvati/POO/tree/main/codigo/aula10/aula10)
+- [ATIVIDADE PARCIAL 2.2 - Colletions](https://forms.gle/zNCYU1kbtEXDqfSb8) - **Encerra dia 29/05/2022 (domingo) as 23:55h**
+
+### Materiais de Estudo Collections Java - Orientações
+- [Java Collections: Dominando Listas, Sets e Mapas - Alura](https://www.alura.com.br/conteudo/java-collections?gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQLKRXEjW85X2A_zUwPU921RBBolKuR7NQ836MUGxDrJmfWTOYgEgrUaApitEALw_wcB)
+- [Apostila Caelum - Collections](https://www.alura.com.br/apostila-java-orientacao-objetos/collections-framework)
+- [W3School - Java ArrayLit](https://www.w3schools.com/java/java_arraylist.asp)
+- 

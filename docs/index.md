@@ -86,4 +86,4 @@ Atividades de aula no fim do material e no formulário -
 - Em breve!
 
 # Avaliação 2 - 08/06/2022
-[Orientações AQUI](https://github.com/costasilvati/POO/blob/main/antocoesDeAula/AnOrientaObjetos_2022_aula11.pdf)
+[Orientações AQUI](https://github.com/costasilvati/POO/blob/main/antocoesDeAula/AnOrientaObjetos_2022_aula11.pdf.pdf)

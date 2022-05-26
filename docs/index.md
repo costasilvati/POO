@@ -77,4 +77,13 @@ Atividades de aula no fim do material e no formulário -
 - [Java Collections: Dominando Listas, Sets e Mapas - Alura](https://www.alura.com.br/conteudo/java-collections?gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQLKRXEjW85X2A_zUwPU921RBBolKuR7NQ836MUGxDrJmfWTOYgEgrUaApitEALw_wcB)
 - [Apostila Caelum - Collections](https://www.alura.com.br/apostila-java-orientacao-objetos/collections-framework)
 - [W3School - Java ArrayLit](https://www.w3schools.com/java/java_arraylist.asp)
-- 
+
+## Aula 11 - 25/05/2022
+- [Código de Aula](https://github.com/costasilvati/POO/tree/main/codigo/aula11)
+- [Anotações de Aula](https://github.com/costasilvati/POO/blob/main/antocoesDeAula/AnOrientaObjetos_2022_aula11.pdf)
+
+## Aula 12 - 01/06/2022
+- Em breve!
+
+# Avaliação 2 - 08/06/2022
+[Orientações AQUI](https://github.com/costasilvati/POO/blob/main/antocoesDeAula/AnOrientaObjetos_2022_aula11.pdf)

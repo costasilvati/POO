@@ -87,4 +87,4 @@ Atividades de aula no fim do material e no formulário -
 
 # Avaliação 2 - 08/06/2022
 - [Orientações AQUI](https://github.com/costasilvati/POO/blob/main/antocoesDeAula/AnOrientaObjetos_2022_aula11.pdf.pdf)
-- [FORMULÁRIO PARA ENTREGA DA OFICIAL 2](https://forms.gle/X5XPZzRXQD8gGFZeA) - **Encerra dia 08/06/2022 as 19:00h **
+- [FORMULÁRIO PARA ENTREGA DA OFICIAL 2](https://forms.gle/X5XPZzRXQD8gGFZeA) **Encerra dia 08/06/2022 as 19:00h**

@@ -1,8 +1,8 @@
 # Análise orientada a objetos
 
-## ATENÇÃO!!! 2ª CHAMADA 20 e 21/06/2022
-- [AVALIAÇÃO 2ª CHAMADA OFICIAL 1 - Disponível no formulário:](https://forms.gle/L9QcH6rvsmfg85y18)
-- [AVALIAÇÃO 2ª CHAMADA OFICIAL 2 - Disponível no formulário:](https://forms.gle/vu6wpbjHFDVnqEF59)
+## ATENÇÃO!!! EXAME 22/06/2022
+- [AVALIAÇÃO EXAME - Disponível no formulário:](https://forms.gle/o9Sato9QM4ZKXPam9)
+
 
 
 ### WhatsApp da Turma (POO e Computação em Nuvem) - [Link AQUI](https://chat.whatsapp.com/ESCChZ4uP7TKP2qpJGuYhphttps://chat.whatsapp.com/ESCChZ4uP7TKP2qpJGuYhp)

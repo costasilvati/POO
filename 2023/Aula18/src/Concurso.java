@@ -81,6 +81,31 @@ public class Concurso {
 		}
 	}
 	
+	public void imprimirCandidatos() {
+		for(Candidato c : candidatos) {
+			int acertos = 0;
+			for(int i=0; i< gabarito.length; i++) {
+				if(gabarito[i] == c.getRespostas()[i]) {
+					acertos++;
+				}
+			}
+			System.out.println(c.toString() + "Acertos: "+ acertos);
+		}
+	}
+	
+	public void exibirErros(String cpf) {
+		for(Candidato c : candidatos) {
+			if(c.getCpf().equals(cpf)) {
+				for(int i=0; i < gabarito.length; i++) {
+					if(c.getRespostas()[i] == gabarito[i]) {
+						System.out.println("Questão "+(i+1) + "Correto");
+					}else {
+						System.out.println("Questão "+(i+1) + "Incorreto");
+					}
+				} 
+			}
+		}
+	}
 	
 	
 }

@@ -1,0 +1,9 @@
+CREATE SCHEMA novo;
+USE novo;
+CREATE TABLE pessoa(
+	id INT AUTO_INCREMENT PRIMARY KEY,
+	nome VARCHAR(255),
+	email VARCHAR(255)
+);
+
+

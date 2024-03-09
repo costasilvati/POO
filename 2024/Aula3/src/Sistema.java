@@ -68,7 +68,7 @@ public class Sistema {
 				int qtd = sc.nextInt(); 
 				notas = new double[qtd]; 
 				String alunos[] = new String[qtd]; 
-				for(int i = 0; i< qtd; i++) { 
+				for(int i = 0; i< (qtd+1); i++) { 
 					System.out.println("Digite o nome do aluno "+ i); 
 					alunos[i] = sc.next(); 
 					System.out.println("Digite a nota do aluno " + i); 

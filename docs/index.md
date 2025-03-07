@@ -1,7 +1,3 @@
-Aqui está um guia completo para instalar o ambiente de desenvolvimento Java no Windows e configurar projetos nos principais IDEs.
-
----
-
 # **Guia de Instalação do Ambiente de Desenvolvimento Java no Windows**
 
 ## **1. Instalação do Java Development Kit (JDK)**

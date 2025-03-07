@@ -138,3 +138,58 @@ O **Apache NetBeans** é um IDE clássico para desenvolvimento Java.
    }
    ```
 5. Para rodar, clique no botão **Run** (`F6`).
+
+6. # **Manual de Criação e Execução de um Projeto Java (Console) no Eclipse**
+
+## **1. Introdução**
+Este manual orienta sobre como criar e executar um projeto Java no Eclipse, incluindo a criação de classes e a execução do código.
+
+---
+
+## **2. Pré-requisitos**
+Antes de começar, certifique-se de que os seguintes itens estão instalados:
+- Eclipse IDE ([Baixar aqui](https://www.eclipse.org/downloads/))
+- JDK ([Baixar aqui](https://www.oracle.com/java/technologies/javase-downloads.html))
+
+---
+
+## **3. Criando um Novo Projeto Java**
+
+### **Passo 1: Abrir o Eclipse**
+1. Inicie o Eclipse.
+2. Escolha um **Workspace** e clique em **Launch**.
+
+---
+
+### **Passo 2: Criar um Novo Projeto Java**
+1. No menu, clique em **File** > **New** > **Java Project**.
+
+![Novo Projeto Java](imagens/eclipse_novo_projeto.png)
+
+2. Dê um nome ao projeto (exemplo: `MeuProjeto`) e clique em **Finish**.
+
+![Configuração do Projeto](imagens/eclipse_config_projeto.png)
+
+---
+
+### **Passo 3: Criar uma Classe Principal**
+1. No **Package Explorer**, clique com o botão direito no projeto criado.
+2. Vá em **New** > **Class**.
+
+![Nova Classe](imagens/eclipse_nova_classe.png)
+
+3. Nomeie a classe como `Main` e marque a opção `public static void main(String[] args)`.
+4. Clique em **Finish**.
+
+---
+
+## **4. Escrevendo o Código**
+Abra o arquivo `Main.java` e adicione o seguinte código:
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Olá, Eclipse!");
+    }
+}
+

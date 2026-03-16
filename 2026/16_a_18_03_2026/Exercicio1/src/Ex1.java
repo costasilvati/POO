@@ -18,7 +18,7 @@ caso nenhum valor seja encontrado entre o mínimo e o máximo.
             array1[i] = sc.nextInt();
         }
         // Ler valores array2
-        for(int i=0; i<10; i++){
+        for(int i=0; i <10; i++){
             System.out.println(i + " Digite um número");
             array2[i] = sc.nextInt();
         }

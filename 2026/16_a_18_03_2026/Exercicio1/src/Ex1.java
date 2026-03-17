@@ -12,14 +12,12 @@ caso nenhum valor seja encontrado entre o mínimo e o máximo.
         Scanner sc = new Scanner(System.in);
         int array1[] = new int[10];
         int array2[] = new int[10];
+        int array3[] = new int[10]; // intersecção
         // Ler valores array1
         for(int i=0; i<10; i++){
             System.out.println(i + " Digite um número");
             array1[i] = sc.nextInt();
-        }
-        // Ler valores array2
-        for(int i=0; i <10; i++){
-            System.out.println(i + " Digite um número");
+            System.out.println(i + " Digite um número do array 2");
             array2[i] = sc.nextInt();
         }
         

@@ -13,9 +13,9 @@ public class Ave extends Animal{
 
     @Override
     public String toString() {
-        return "Ave [Nome: " + getNome() + "\n"+
-                ", Patas: " + getPatas() + "\n" +
-                ", Velocidade: "+ getVelocidade() + "\n"+
+        return "Ave [Nome: " + getNome() + ","+
+                ", Patas: " + getPatas() + "," +
+                ", Velocidade: "+ getVelocidade() + ","+
                 ", Localizacao: " + getLocalizacao() + "]";
     }
 
